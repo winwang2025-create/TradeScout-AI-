@@ -1,0 +1,5 @@
+{
+  "name": "TradeScout AI",
+  "description": "An AI-powered B2B international trade assistant that analyzes companies, extracts business card data, and generates strategic export reports using Google Search Grounding.",
+  "requestFramePermissions": []
+}
